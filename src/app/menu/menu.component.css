@@ -1,0 +1,15 @@
+#main-logo {
+  width: 60px;
+}
+#menu-container {
+  background: rgb(238,225,225);
+  background: -moz-linear-gradient(90deg, rgba(238,225,225,1) 50%, rgba(147,196,209,0.8731343283582089) 100%);
+  background: -webkit-linear-gradient(90deg, rgba(238,225,225,1) 50%, rgba(147,196,209,0.8731343283582089) 100%);
+  background: linear-gradient(90deg, rgba(238,225,225,1) 50%, rgba(147,196,209,0.8731343283582089) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#eee1e1",endColorstr="#93c4d1",GradientType=1);
+  position: fixed;
+  width: 100%;
+  z-index: 9;
+  height: 56px;
+  top: 0;
+}

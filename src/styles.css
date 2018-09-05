@@ -1,1 +1,22 @@
 /* You can add global styles to this file, and also import other style files */
+.avatarFrameOffline {
+  background: rgb(238,225,225);
+  background: -moz-linear-gradient(90deg, rgba(238,225,225,1) 50%, rgba(182,181,180,1) 100%);
+  background: -webkit-linear-gradient(90deg, rgba(238,225,225,1) 50%, rgba(182,181,180,1) 100%);
+  background: linear-gradient(90deg, rgba(238,225,225,1) 50%, rgba(182,181,180,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#eee1e1",endColorstr="#b6b5b4",GradientType=1);
+  text-align: center;
+  padding: 5%;
+  border-radius: 10px;
+  border: 1px solid white;
+  display: inline-block;
+}
+.center {
+  text-align: center !important;
+}
+.marto15{
+  margin-top: 15px;
+}
+.marbo15{
+  margin-bottom: 15px;
+}
